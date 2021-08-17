@@ -100,6 +100,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .features-body {
     color: #8f8f8f;
+    line-height: 1.3rem;
 }
 
 .feature-image {
@@ -201,6 +202,10 @@ p {
     .title-image {
         position: static;
         transform: rotateZ(0);
+    }
+
+    .nav-link {
+        text-align: left;
     }
 }
 
